@@ -8,3 +8,5 @@
 
 A [link] (http://www.wikiwand.com/en/Markdown#/Example)
 
+'''javascript
+var foo = 10 + '20';
