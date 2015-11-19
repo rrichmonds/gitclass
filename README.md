@@ -1,4 +1,4 @@
-# Front-end Job Interview Questions demo
+# Git Class demo
 
 **Note: From git demo class**
 
